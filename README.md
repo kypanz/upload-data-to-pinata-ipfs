@@ -4,4 +4,4 @@
 # Usage steps
 - create a file .env
 - npm install
-- node inde.js
+- node index.js
